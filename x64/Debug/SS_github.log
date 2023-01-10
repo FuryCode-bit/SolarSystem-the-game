@@ -1,0 +1,5 @@
+﻿  SS_github.cpp
+C:\Users\User\source\repos\SS_github\SS_github\SS_github.cpp(110,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\SS_github\SS_github\SS_github.cpp(510,46): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\source\repos\SS_github\SS_github\SS_github.cpp(510,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  SS_github.vcxproj -> C:\Users\User\source\repos\SS_github\x64\Debug\SS_github.exe
